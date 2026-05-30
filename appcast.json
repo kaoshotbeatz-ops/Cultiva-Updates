@@ -1,8 +1,9 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Declare iPad/iPhone supported orientations for App Store validation",
     "Professional new app icon (gradient, gloss, depth)",
     "Add ITSAppUsesNonExemptEncryption=NO for TestFlight uploads",
     "TestFlight-ready: privacy policy, encryption declaration, submission guide",
