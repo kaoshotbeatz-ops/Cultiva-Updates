@@ -1,8 +1,9 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "date": "2026-05-30",
   "critical": false,
   "notes": [
+    "Add ITSAppUsesNonExemptEncryption=NO for TestFlight uploads",
     "TestFlight-ready: privacy policy, encryption declaration, submission guide",
     "Apple HIG: iPhone shows 5-tab bar (4 core + More hub); iPad/Mac show all tabs",
     "Detailed plant tier expanded 20 \u2192 50 (broccoli, melons, berries, herbs, more)",
